@@ -2,7 +2,6 @@
 
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D4?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Script](https://img.shields.io/badge/script-Batch-4D4D4D?logo=windows-terminal&logoColor=white)](#)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A lightweight Windows batch script for cleaning local **AnyDesk** configuration and cached data.
 
